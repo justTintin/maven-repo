@@ -1,2 +1,4 @@
+ 此模块引用方式======================================
+ compile 'me.tintin.module.zxing:zxing:x.0@aar'
  ===========如果作为module引用的话,需要引入包=========
  compile 'com.google.zxing:core:3.2.1'
